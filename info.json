@@ -1,5 +1,111 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "7tAJyp-RPA8",
+            "name": "[Vinyl\u29f8LP] \u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce \u29f8 HOWL'S MOVING CASTLE \u29f8 \ud558\uc6b8\uc758 \uc6c0\uc9c1\uc774\ub294 \uc131 (2004), \u4e45\u77f3 \u8b72 \u29f8 JOE HISAISHI \u29f8 \ud788\uc0ac\uc774\uc2dc \uc870 [7tAJyp-RPA8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/[Vinyl\u29f8LP] \u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce \u29f8 HOWL'S MOVING CASTLE \u29f8 \ud558\uc6b8\uc758 \uc6c0\uc9c1\uc774\ub294 \uc131 (2004), \u4e45\u77f3 \u8b72 \u29f8 JOE HISAISHI \u29f8 \ud788\uc0ac\uc774\uc2dc \uc870 [7tAJyp-RPA8].mp4",
+            "size": 95.054913,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/[Vinyl\u29f8LP] \u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce \u29f8 HOWL'S MOVING CASTLE \u29f8 \ud558\uc6b8\uc758 \uc6c0\uc9c1\uc774\ub294 \uc131 (2004), \u4e45\u77f3 \u8b72 \u29f8 JOE HISAISHI \u29f8 \ud788\uc0ac\uc774\uc2dc \uc870 [7tAJyp-RPA8].mp4"
+        },
+        {
+            "id": "Jl1_m1OtkpE",
+            "name": "Brian Eno - New Space Music [Jl1_m1OtkpE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Brian Eno - New Space Music [Jl1_m1OtkpE].mp4",
+            "size": 71.518013,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Brian Eno - New Space Music [Jl1_m1OtkpE].mp4"
+        },
+        {
+            "id": "LhhYI8bdhfk",
+            "name": "Spandau Ballet - Highly Strung (HD Remastered) [LhhYI8bdhfk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Spandau Ballet - Highly Strung (HD Remastered) [LhhYI8bdhfk].mp4",
+            "size": 39.509412999999995,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Spandau Ballet - Highly Strung (HD Remastered) [LhhYI8bdhfk].mp4"
+        },
+        {
+            "id": "5TKUqWG4kgc",
+            "name": "Art Blakey and the Jazz Messengers - The Jazz Messengers (1956) {Full Album} [5TKUqWG4kgc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Art Blakey and the Jazz Messengers - The Jazz Messengers (1956) {Full Album} [5TKUqWG4kgc].mp4",
+            "size": 91.623744,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Art Blakey and the Jazz Messengers - The Jazz Messengers (1956) {Full Album} [5TKUqWG4kgc].mp4"
+        },
+        {
+            "id": "8rOMV0A5jd0",
+            "name": "John Coltrane Quartet Ballads full jazz album [8rOMV0A5jd0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/John Coltrane Quartet Ballads full jazz album [8rOMV0A5jd0].mp4",
+            "size": 15.335564999999999,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/John Coltrane Quartet Ballads full jazz album [8rOMV0A5jd0].mp4"
+        },
+        {
+            "id": "GBSc3TOB6CU",
+            "name": "Art B\u0332l\u0332a\u0332k\u0332e\u0332y & T\u0332h\u0332e J\u0332a\u0332z\u0332z M\u0332e\u0332s\u0332s\u0332e\u0332n\u0332g\u0332e\u0332r\u0332s \u2013 \u0332I\u0332M\u0332P\u0332U\u0332L\u0332S\u0332E\u0332 \u0332(\u03321\u03329\u03326\u03321\u0332)\u0332 [GBSc3TOB6CU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Art B\u0332l\u0332a\u0332k\u0332e\u0332y & T\u0332h\u0332e J\u0332a\u0332z\u0332z M\u0332e\u0332s\u0332s\u0332e\u0332n\u0332g\u0332e\u0332r\u0332s \u2013 \u0332I\u0332M\u0332P\u0332U\u0332L\u0332S\u0332E\u0332 \u0332(\u03321\u03329\u03326\u03321\u0332)\u0332 [GBSc3TOB6CU].mp4",
+            "size": 21.436284999999998,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Art B\u0332l\u0332a\u0332k\u0332e\u0332y & T\u0332h\u0332e J\u0332a\u0332z\u0332z M\u0332e\u0332s\u0332s\u0332e\u0332n\u0332g\u0332e\u0332r\u0332s \u2013 \u0332I\u0332M\u0332P\u0332U\u0332L\u0332S\u0332E\u0332 \u0332(\u03321\u03329\u03326\u03321\u0332)\u0332 [GBSc3TOB6CU].mp4"
+        },
+        {
+            "id": "0VlOigfm-ww",
+            "name": "Charles Mingus \u200e\u2013 The Black Saint And The Sinner Lady (Impulse! STEREO 1963) [FULL ALBUM] [0VlOigfm-ww].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Charles Mingus \u200e\u2013 The Black Saint And The Sinner Lady (Impulse! STEREO 1963) [FULL ALBUM] [0VlOigfm-ww].mp4",
+            "size": 48.922405,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Charles Mingus \u200e\u2013 The Black Saint And The Sinner Lady (Impulse! STEREO 1963) [FULL ALBUM] [0VlOigfm-ww].mp4"
+        },
+        {
+            "id": "LsX1WtNGsgk",
+            "name": "Victor Jara - Duerme, Duerme Negrito [LsX1WtNGsgk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Victor Jara - Duerme, Duerme Negrito [LsX1WtNGsgk].mp4",
+            "size": 3.2512429999999997,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Victor Jara - Duerme, Duerme Negrito [LsX1WtNGsgk].mp4"
+        },
+        {
+            "id": "Bvze_D0hRpw",
+            "name": "Martha Argerich \u29f8 Erich Leinsdorf \u29f8 Philharmonia Liszt Piano Concerto No.1 (full video) [Bvze_D0hRpw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Martha Argerich \u29f8 Erich Leinsdorf \u29f8 Philharmonia Liszt Piano Concerto No.1 (full video) [Bvze_D0hRpw].mp4",
+            "size": 70.88522999999999,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Martha Argerich \u29f8 Erich Leinsdorf \u29f8 Philharmonia Liszt Piano Concerto No.1 (full video) [Bvze_D0hRpw].mp4"
+        },
+        {
+            "id": "U89oe4J0a7w",
+            "name": "STRATOVARIUS   Fright Night 1989 Melodic Power Metal {FINL\u00c2NDIA} [U89oe4J0a7w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/STRATOVARIUS   Fright Night 1989 Melodic Power Metal {FINL\u00c2NDIA} [U89oe4J0a7w].mp4",
+            "size": 76.652295,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/STRATOVARIUS   Fright Night 1989 Melodic Power Metal {FINL\u00c2NDIA} [U89oe4J0a7w].mp4"
+        },
+        {
+            "id": "NWQ-Ja2anSQ",
+            "name": "Prince of the Blood - Contact High (1986) Gothic Rock, Post-Punk - Germany [NWQ-Ja2anSQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Prince of the Blood - Contact High (1986) Gothic Rock, Post-Punk - Germany [NWQ-Ja2anSQ].mp4",
+            "size": 80.351197,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Prince of the Blood - Contact High (1986) Gothic Rock, Post-Punk - Germany [NWQ-Ja2anSQ].mp4"
+        },
+        {
+            "id": "EYkk9mRPG88",
+            "name": "[Full Album] Ritsuko Kurosawa - Real (1990) [EYkk9mRPG88].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/[Full Album] Ritsuko Kurosawa - Real (1990) [EYkk9mRPG88].mp4",
+            "size": 57.298696,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/[Full Album] Ritsuko Kurosawa - Real (1990) [EYkk9mRPG88].mp4"
+        },
+        {
+            "id": "uTMiyfxDAXc",
+            "name": "George Siravo & His Orchestra - SEDUCTIVE STRINGS [uTMiyfxDAXc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/George Siravo & His Orchestra - SEDUCTIVE STRINGS [uTMiyfxDAXc].mp4",
+            "size": 59.250795999999994,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/George Siravo & His Orchestra - SEDUCTIVE STRINGS [uTMiyfxDAXc].mp4"
+        },
+        {
+            "id": "GPZYeLzDE-Y",
+            "name": "Entomongaku (full album) [GPZYeLzDE-Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/Entomongaku (full album) [GPZYeLzDE-Y].mp4",
+            "size": 79.704809,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/Entomongaku (full album) [GPZYeLzDE-Y].mp4"
+        },
+        {
+            "id": "JBmXX1OxPGg",
+            "name": "[Full Album] Ritsuko Kurosawa - Purity (1991) [JBmXX1OxPGg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j5/videos/[Full Album] Ritsuko Kurosawa - Purity (1991) [JBmXX1OxPGg].mp4",
+            "size": 68.59011699999999,
+            "url": "https://github.com/circuitalmynds/music_j5/raw/main/videos/[Full Album] Ritsuko Kurosawa - Purity (1991) [JBmXX1OxPGg].mp4"
+        }
+    ],
+    "total_size": 879.3847209999998
 }
